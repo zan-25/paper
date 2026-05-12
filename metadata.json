@@ -1,0 +1,6 @@
+{
+  "name": "Question Paper Generator",
+  "description": "A simple tool to generate question papers based on a given topic, using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
